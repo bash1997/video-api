@@ -329,5 +329,58 @@
             "scripture":{},
             "speaker": "Pastor Lorenzo A. Moseley"
         }
+    ],
+
+    "poster": [
+        {
+          "series": "All Sermons",
+          "img": "./sermon/img/sermons.png",
+          "id": "allTab"
+        },
+        {
+          "series": "Habits",
+          "img": "./sermon/img/habits.png",
+          "id": "habitsTab"
+        },
+        {
+          "series": "Next is Now",
+          "img": "./sermon/img/nextIsNow.png",
+          "id": "nextTab"
+        },
+        {
+          "series": "Neighborhood Watch",
+          "img": "./sermon/img/neighborhood.png",
+          "id": "neighborhoodTab"
+        },
+        {
+          "series": "Your Part Matters",
+          "img": "./sermon/img/yourPart.png",
+          "id": "yourPartTab"
+        },
+        {
+          "series": "Baggage",
+          "img": "./sermon/img/baggage.png",
+          "id": "baggageTab"
+        },
+        {
+          "series": "Limitations",
+          "img": "./sermon/img/limits.png",
+          "id": "limitsTab"
+        },
+        {
+          "series": "The Heart",
+          "img": "./sermon/img/heart.png",
+          "id": "heartTab"
+        },
+        {
+          "series": "The Mind",
+          "img": "./sermon/img/mind.png",
+          "id": "mindTab"
+        },
+        {
+          "series": "Our Heart For The House",
+          "img": "./sermon/img/home.png",
+          "id": "homeTab"
+        }
     ]
 }
