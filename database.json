@@ -1,6 +1,7 @@
 {
     "video": [
         {
+            "id": 0,
             "name": "Disconnected",
             "src": "../video/sermons/mind221.mp4",
             "series": "The Mind",
@@ -26,6 +27,7 @@
         },
     
         {
+            "id": 1,
             "name": "Self Esteem",
             "src": "../video/sermons/mind314.mp4",
             "series": "The Mind",
@@ -44,6 +46,7 @@
         },
     
         {
+            "id": 2,
             "name": "Passion",
             "src": "../video/sermons/passion328.mp4",
             "series": "Passion",
@@ -59,9 +62,10 @@
                 "Be part of something great. You belong here! At Glee Church, our mission is to share the love of Jesus Christ and to reach the unchurched.",
             "scripture":{},
             "speaker": "Pastor Lorenzo A. Moseley"
-            },
+        },
         
-            {
+        {
+            "id": 3,
             "name": "What's So Special About Him",
             "src":"../video/sermons/jesus44.mp4",
             "series": "Why Jesus?",
@@ -80,6 +84,7 @@
         },
     
         {
+            "id": 4,
             "name": "A Life Without Meaning",
             "src":"../video/sermons/enviroment411.mp4",
             "series": "Your Environment Matters",
@@ -95,9 +100,10 @@
                 "Be part of something great. You belong here! At Glee Church, our mission is to share the love of Jesus Christ and to reach the unchurched.",
             "scripture":{},
             "speaker": "Pastor Lorenzo A. Moseley"
-            },
+        },
         
-            {
+        {
+            "id": 5,
             "name": "There's Beauty in Giving",
             "src":"../video/sermons/heart418.mp4",
             "series": "The Heart",
@@ -116,6 +122,7 @@
         },
     
         {
+            "id": 6,
             "name": "Living a Generous Life",
             "src": "../video/sermons/heart425.mp4",
             "series": "The Heart",
@@ -134,6 +141,7 @@
         },
     
         {
+            "id": 7,
             "name": "Stop Hiding Your Struggles",
             "src": "../video/sermons/mind52.mp4",
             "series": "The Mind",
@@ -152,6 +160,7 @@
         },
     
         {
+            "id": 8,
             "name": "Don't Walk Away From Your Destiny",
             "src": "../video/sermons/destiny59.mp4",
             "series": "Destiny",
@@ -169,6 +178,7 @@
         },
     
         {
+            "id": 9,
             "name": "God Wants You",
             "src": "../video/sermons/heart516.mp4",
             "series": "The Heart",
@@ -187,6 +197,7 @@
         },
     
         {
+            "id": 10,
             "name": "It Stops Here",
             "src": "../video/sermons/limitations523.mp4",
             "series": "Limitations",
@@ -205,6 +216,7 @@
         },
     
         {
+            "id": 11,
             "name": "Pride Is A Dangerous Thing",
             "src": "../video/sermons/limitations530.mp4",
             "series": "Limitations",
@@ -223,6 +235,7 @@
         },
     
         {
+            "id": 12,
             "name": "Faithfulness In Serving | Service is Mindset",
             "src": "../video/sermons/service66.mp4",
             "series": "Our Heart For The House",
@@ -241,6 +254,7 @@
         },
     
         {
+            "id": 13,
             "name": "You Can't Cancel Wat You Didn't Create",
             "src": "../video/sermons/relationships613.mp4",
             "series": "Our Heart For The House",
@@ -259,6 +273,7 @@
         },
     
         {
+            "id": 14,
             "name": "How Should We Worship?",
             "src": "../video/sermons/worship620.mp4",
             "series": "Our Heart For The House",
@@ -277,6 +292,7 @@
         },
     
         {
+            "id": 15,
             "name": "This is Your Season! | Be Intentional",
             "src": "../video/sermons/baggage711.mp4",
             "series": "Baggage",
@@ -295,6 +311,7 @@
         },
     
         {
+            "id": 16,
             "name": "Who Is Your Neighbor? | Love Your Neighbor As Yourself",
             "src": "../video/sermons/watch718.mp4",
             "series": "Neighborhood Watch",
@@ -313,6 +330,7 @@
         },
     
         {
+            "id": 17,
             "name": "Don't Walk By Your Blessings | Hidden Blessings",
             "src": "../video/sermons/watch725.mp4",
             "series": "Neighborhood Watch",
