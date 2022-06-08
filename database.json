@@ -7,7 +7,7 @@
             "img": "./sermon/img/mind.png",
             "series": "The Mind",
             "part": "1",
-            "html-id": "mind1",
+            "html_id": "mind1",
             "date": { 
                 "month": "February",
                 "day": "21",
@@ -34,7 +34,7 @@
             "img": "./sermon/img/mind.png",
             "series": "The Mind",
             "part": "2",
-            "html-id": "mind2",
+            "html_id": "mind2",
             "date": {
                 "month": "March",
                 "day": "14",
@@ -54,7 +54,7 @@
             "img": "./sermon/img/sermons.png",
             "series": "Passion",
             "part": "1",
-            "html-id": "passion1",
+            "html_id": "passion1",
             "date": {
                 "month": "March",
                 "day": "28",
@@ -74,7 +74,7 @@
             "img": "./sermon/img/sermons.png",
             "series": "Why Jesus?",
             "part": "1",
-            "html-id": "jesus1",
+            "html_id": "jesus1",
             "date": {
                 "month": "April",
                 "day": "4",
@@ -94,7 +94,7 @@
             "img": "./sermon/img/sermons.png",
             "series": "Your Environment Matters",
             "part": "1",
-            "html-id": "matters1",
+            "html_id": "matters1",
             "date": {
                 "month": "April",
                 "day": "11",
@@ -114,7 +114,7 @@
             "img": "./sermon/img/heart.png",
             "series": "The Heart",
             "part": "1",
-            "html-id": "heart1",
+            "html_id": "heart1",
             "date": {
                 "month": "April",
                 "day": "18",
@@ -134,7 +134,7 @@
             "img": "./sermon/img/heart.png",
             "series": "The Heart",
             "part": "2",
-            "html-id": "heart2",
+            "html_id": "heart2",
             "date": {
                 "month": "April",
                 "day": "25",
@@ -154,7 +154,7 @@
             "img": "./sermon/img/mind.png",
             "series": "The Mind",
             "part": "4",
-            "html-id": "mind4",
+            "html_id": "mind4",
             "date": {
                 "month": "May",
                 "day": "2",
@@ -174,7 +174,7 @@
             "img": "./sermon/img/sermons.png",
             "series": "Destiny",
             "part": "1",
-            "html-id": "destiny1",
+            "html_id": "destiny1",
             "date": {
                 "month": "May",
                 "day": "9",
@@ -193,7 +193,7 @@
             "img": "./sermon/img/heart.png",
             "series": "The Heart",
             "part": "3",
-            "html-id": "heart3",
+            "html_id": "heart3",
             "date": {
                 "month": "May",
                 "day": "16",
@@ -213,7 +213,7 @@
             "img": "./sermon/img/limits.png",
             "series": "Limitations",
             "part": "1",
-            "html-id": "limit1",
+            "html_id": "limit1",
             "date": {
                 "month": "May",
                 "day": "23",
@@ -233,7 +233,7 @@
             "img": "./sermon/img/limits.png",
             "series": "Limitations",
             "part": "2",
-            "html-id": "limit2",
+            "html_id": "limit2",
             "date": {
                 "month": "May",
                 "day": "30",
@@ -253,7 +253,7 @@
             "img": "./sermon/img/home.png",
             "series": "Our Heart For The House",
             "part": "1",
-            "html-id": "home1",
+            "html_id": "home1",
             "date": {
                 "month": "June",
                 "day": "6",
@@ -273,7 +273,7 @@
             "img": "./sermon/img/home.png",
             "series": "Our Heart For The House",
             "part": "2",
-            "html-id": "home2",
+            "html_id": "home2",
             "date": {
                 "month": "June",
                 "day": "13",
@@ -293,7 +293,7 @@
             "img": "./sermon/img/home.png",
             "series": "Our Heart For The House",
             "part": "3",
-            "html-id": "home3",
+            "html_id": "home3",
             "date": {
                 "month": "June",
                 "day": "20",
@@ -313,7 +313,7 @@
             "img": "./sermon/img/baggage.png",
             "series": "Baggage",
             "part": "2",
-            "html-id": "bag2",
+            "html_id": "bag2",
             "date": {
                 "month": "July",
                 "day": "11",
@@ -333,7 +333,7 @@
             "img": "./sermon/img/neighborhood.png",
             "series": "Neighborhood Watch",
             "part": "1",
-            "html-id": "watch1",
+            "html_id": "watch1",
             "date": {
                 "month": "July",
                 "day": "18",
@@ -353,7 +353,7 @@
             "img": "./sermon/img/neighborhood.png",
             "series": "Neighborhood Watch",
             "part": "2",
-            "html-id": "watch2",
+            "html_id": "watch2",
             "date": {
                 "month": "July",
                 "day": "25",
