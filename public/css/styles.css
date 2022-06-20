@@ -1,0 +1,87 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: row wrap;
+}
+header h1 { 
+    color: #234b87;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+    background: #dff9f9;
+    padding: 45px 0 30px;
+    border-radius: 15px;
+}
+
+
+/* ALL SETTING STYLES */
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* SERIES IMG */
+.tab.flex {
+    align-content: flex-start;
+}
+
+.tab {
+    width: 100%;
+    min-height: 205px;
+    margin-bottom: 15px;
+    background: #c2f2f2;
+    border-radius: 15px;
+}
+
+.tab:hover {
+    background: #a4dfdfa6;
+}
+
+.tab img {
+    border-radius: 15px;
+    width: 90%;
+    margin-top: 15px;
+}
+
+.tab div.flex {
+    align-content: flex-start;
+}
+
+.tab div {
+    margin: 15px 15px;
+    width: 100%;
+    height: auto;
+}
+
+.tab div a {
+    font-size: 1.25em;
+    text-decoration: none;
+    color: inherit;
+}
+
+.tab div a:hover {
+    color: #20818e;
+}
+
+@media only screen and (min-width: 600px) {
+    main.flex {
+        justify-content: space-evenly;
+    }
+
+    /* BY SERIES TAB */
+    .tab {
+        width: 40%;
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+    /* BY SERIES TAB */
+    .tab {
+        width: 30%;
+    }
+
+}
