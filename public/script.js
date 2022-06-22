@@ -5,7 +5,7 @@ const apiData = async function(){
     // need to have absolute links to show up. 
     // If you are using a local api, you can have
     // a local link for images.
-    const response = await fetch("./database.json");
+    const response = await fetch("../database.json");
     const data = await response.json();
     const poster = data["poster"];
 

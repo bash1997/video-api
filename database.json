@@ -370,52 +370,52 @@
     "poster": [
         {
           "series": "All Sermons",
-          "img": "./img/sermons.png",
+          "img": "./public/img/sermons.png",
           "id": "allTab"
         },
         {
           "series": "Habits",
-          "img": "./img/habits.png",
+          "img": "./public/img/habits.png",
           "id": "habitsTab"
         },
         {
           "series": "Next is Now",
-          "img": "./img/nextIsNow.png",
+          "img": "./public/img/nextIsNow.png",
           "id": "nextTab"
         },
         {
           "series": "Neighborhood Watch",
-          "img": "./img/neighborhood.png",
+          "img": "./public/img/neighborhood.png",
           "id": "neighborhoodTab"
         },
         {
           "series": "Your Part Matters",
-          "img": "./img/yourPart.png",
+          "img": "./public/img/yourPart.png",
           "id": "yourPartTab"
         },
         {
           "series": "Baggage",
-          "img": "./img/baggage.png",
+          "img": "./public/img/baggage.png",
           "id": "baggageTab"
         },
         {
           "series": "Limitations",
-          "img": "./img/limits.png",
+          "img": "./public/img/limits.png",
           "id": "limitsTab"
         },
         {
           "series": "The Heart",
-          "img": "./img/heart.png",
+          "img": "./public/img/heart.png",
           "id": "heartTab"
         },
         {
           "series": "The Mind",
-          "img": "./img/mind.png",
+          "img": "./public/img/mind.png",
           "id": "mindTab"
         },
         {
           "series": "Our Heart For The House",
-          "img": "./img/home.png",
+          "img": "./public/img/home.png",
           "id": "homeTab"
         }
     ]
